@@ -1,7 +1,10 @@
 # -*- coding: utf-8 -*-
-from mana_api import db
+from fcloud_api import db
 
-# 流量主表
+
+
+
+# 应用主表
 class netflow(db.Model):
     id = db.Column(db.Integer, primary_key=True)
     date = db.Column(db.String(80))

@@ -2054,3 +2054,383 @@ Tue, 23 Aug 2016 13:59:01 C:\Python27\lib\site-packages\werkzeug\_internal.py[li
 Tue, 23 Aug 2016 13:59:02 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
 Tue, 23 Aug 2016 13:59:02 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
 Tue, 23 Aug 2016 13:59:02 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 14:21:42 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\resources\\identity.py', reloading
+Tue, 23 Aug 2016 14:21:42 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 14:21:43 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 14:21:43 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 14:21:43 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 14:22:15 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\config.py', reloading
+Tue, 23 Aug 2016 14:22:15 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 14:22:16 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 14:22:16 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 14:22:16 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 14:23:57 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\__init__.py', reloading
+Tue, 23 Aug 2016 14:23:57 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 14:23:57 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 14:23:57 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 14:23:57 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 14:24:46 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\__init__.py', reloading
+Tue, 23 Aug 2016 14:24:46 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 14:24:47 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 14:24:47 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 14:24:47 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 14:24:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\__init__.py', reloading
+Tue, 23 Aug 2016 14:24:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 14:24:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 14:24:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 14:24:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 14:25:41 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\__init__.py', reloading
+Tue, 23 Aug 2016 14:25:41 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 14:25:42 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 14:25:42 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 14:25:42 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 14:25:44 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\__init__.py', reloading
+Tue, 23 Aug 2016 14:25:44 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 14:25:44 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 14:25:44 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 14:25:44 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 14:27:50 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\__init__.py', reloading
+Tue, 23 Aug 2016 14:27:50 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 14:27:51 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 14:27:51 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 14:27:51 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 14:45:13 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\__init__.py', reloading
+Tue, 23 Aug 2016 14:45:13 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 14:45:13 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 14:45:13 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 14:45:13 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 14:54:03 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:54:03 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 401 114
+Tue, 23 Aug 2016 14:54:03 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:54:03] "POST /fcloud_api/v1/tokens HTTP/1.1" 401 -
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:54:14] "POST /fcloud_api/v1/tokens HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/3e20f2b7c9cd4c52906cbf732b61984c HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:54:14] "GET /fcloud_api/v1/tenants HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/3e20f2b7c9cd4c52906cbf732b61984c HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 14:54:14 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:54:14] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:54:27 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:54:27 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/3e20f2b7c9cd4c52906cbf732b61984c HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:54:27 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 14:54:27 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 14:54:27 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:54:27] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:55:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:55:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/3e20f2b7c9cd4c52906cbf732b61984c HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:55:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 14:55:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 14:55:01 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:55:01] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:55:16 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:55:16] "POST /fcloud_api/v1/tokens HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/2bb2c3ffe866486a98a2aa8b3531d45f HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Tue, 23 Aug 2016 14:55:16 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:55:16] "GET /fcloud_api/v1/tenants HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:55:45] "POST /fcloud_api/v1/tokens HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/f3a318f288bb46e3b74feb4ce5eceb7f HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:55:45] "GET /fcloud_api/v1/tenants HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/f3a318f288bb46e3b74feb4ce5eceb7f HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 14:55:45 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:55:45] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:59:11 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:59:11 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/f3a318f288bb46e3b74feb4ce5eceb7f HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:59:11 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 14:59:11 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps/hh HTTP/1.1" 200 None
+Tue, 23 Aug 2016 14:59:11 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:59:11] "GET /fcloud_api/v1/apps/hh HTTP/1.1" 200 -
+Tue, 23 Aug 2016 14:59:47 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 14:59:47 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/f3a318f288bb46e3b74feb4ce5eceb7f HTTP/1.1" 200 370
+Tue, 23 Aug 2016 14:59:47 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 14:59:47 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 14:59:47 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 14:59:47] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:00:05] "POST /fcloud_api/v1/tokens HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/d110ac7eed834e5ab7cdc3cf7adb8528 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:00:05] "GET /fcloud_api/v1/tenants HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/d110ac7eed834e5ab7cdc3cf7adb8528 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 15:00:05 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:00:05] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:01:15 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:01:15 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:01:15 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:01:15] "POST /fcloud_api/v1/tokens HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:01:15 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:01:15 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/21609d5b51a8486da1528559f6e6a37b HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:01:15 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:01:15 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Tue, 23 Aug 2016 15:01:15 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:01:15] "GET /fcloud_api/v1/tenants HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:01:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:01:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/21609d5b51a8486da1528559f6e6a37b HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:01:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 15:01:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 15:01:16 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:01:16] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:02:03 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:02:03 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/21609d5b51a8486da1528559f6e6a37b HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:02:03 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 15:02:03 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps/sdfsd HTTP/1.1" 200 None
+Tue, 23 Aug 2016 15:02:03 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:02:03] "GET /fcloud_api/v1/apps/sdfsd HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:02:24 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:02:24 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/21609d5b51a8486da1528559f6e6a37b HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:02:24 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 15:02:24 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps/hh HTTP/1.1" 200 None
+Tue, 23 Aug 2016 15:02:24 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:02:24] "GET /fcloud_api/v1/apps/hh HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:02:37 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:02:37 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/21609d5b51a8486da1528559f6e6a37b HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:02:37 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 15:02:37 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 15:02:37 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:02:37] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:16:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:16:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/21609d5b51a8486da1528559f6e6a37b HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:16:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 15:16:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 15:16:20 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:16:20] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:26:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:26:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/21609d5b51a8486da1528559f6e6a37b HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:26:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 15:26:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 15:26:33 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:26:33] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:27:10 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:27:10 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/21609d5b51a8486da1528559f6e6a37b HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:27:10 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 15:27:10 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 15:27:10 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:27:10] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:27:46 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 15:27:46 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/21609d5b51a8486da1528559f6e6a37b HTTP/1.1" 200 370
+Tue, 23 Aug 2016 15:27:46 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 15:27:46 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 15:27:46 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 15:27:46] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 15:39:20 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\config.py', reloading
+Tue, 23 Aug 2016 15:39:20 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 15:39:21 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 15:39:21 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 15:39:21 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 15:39:34 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\config.py', reloading
+Tue, 23 Aug 2016 15:39:34 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 15:39:34 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 15:39:34 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 15:39:34 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 16:40:33] "POST /fcloud_api/v1/tokens HTTP/1.1" 200 -
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/701dfcbe80254a9ca5d77c845649f0ba HTTP/1.1" 200 370
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 16:40:33] "GET /fcloud_api/v1/tenants HTTP/1.1" 200 -
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/701dfcbe80254a9ca5d77c845649f0ba HTTP/1.1" 200 370
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 16:40:33 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 16:40:33] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 16:58:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\__init__.py', reloading
+Tue, 23 Aug 2016 16:58:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 16:58:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 16:58:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 16:58:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 17:00:09 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 17:00:09 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/f094efca9c13404f8361c6ec4fb8e18b HTTP/1.1" 200 1781
+Tue, 23 Aug 2016 17:00:09 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Tue, 23 Aug 2016 17:00:09 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Tue, 23 Aug 2016 17:00:09 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Tue, 23 Aug 2016 17:00:09 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Tue, 23 Aug 2016 17:00:10 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Tue, 23 Aug 2016 17:00:10 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Tue, 23 Aug 2016 17:00:10 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:00:10] "GET /fcloud_api/v1/images HTTP/1.1" 200 -
+Tue, 23 Aug 2016 17:00:56 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\config.py', reloading
+Tue, 23 Aug 2016 17:00:56 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 17:00:56 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 17:00:56 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 17:00:56 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 17:00:59 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 17:00:59 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/f094efca9c13404f8361c6ec4fb8e18b HTTP/1.1" 200 1781
+Tue, 23 Aug 2016 17:00:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:00:59] "GET /fcloud_api/v1/images HTTP/1.1" 500 -
+Tue, 23 Aug 2016 17:02:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\config.py', reloading
+Tue, 23 Aug 2016 17:02:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 17:02:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 17:02:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 17:02:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 17:02:52 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\resources\\glance\\images.py', reloading
+Tue, 23 Aug 2016 17:02:52 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 17:02:52 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 17:02:52 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 17:02:52 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 17:02:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 17:02:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/f094efca9c13404f8361c6ec4fb8e18b HTTP/1.1" 200 1781
+Tue, 23 Aug 2016 17:02:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Tue, 23 Aug 2016 17:02:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Tue, 23 Aug 2016 17:02:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Tue, 23 Aug 2016 17:02:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Tue, 23 Aug 2016 17:02:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Tue, 23 Aug 2016 17:02:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Tue, 23 Aug 2016 17:02:56 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:02:56] "GET /fcloud_api/v1/images HTTP/1.1" 200 -
+Tue, 23 Aug 2016 17:09:10 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\resources\\glance\\images.py', reloading
+Tue, 23 Aug 2016 17:09:10 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 17:48:55 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 17:48:56 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 17:48:56 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 17:48:56 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:49:01] "POST /fcloud_api/v1/tokens HTTP/1.1" 200 -
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:49:01] "GET /fcloud_api/v1/tenants HTTP/1.1" 200 -
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 17:49:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 17:49:02 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 17:49:02 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:49:02] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 17:49:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 17:49:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 17:49:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 17:49:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 17:49:58 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:49:58] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 17:51:04 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 17:51:04 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 17:51:04 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 17:51:04 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 17:51:04 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:51:04] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 17:54:19 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:54:19] "GET /fcloud_api/v1/console HTTP/1.1" 404 -
+Tue, 23 Aug 2016 17:58:15 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:58:15] "GET /static/pm_metric.html HTTP/1.1" 404 -
+Tue, 23 Aug 2016 17:58:16 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:58:16] "GET /favicon.ico HTTP/1.1" 401 -
+Tue, 23 Aug 2016 17:58:40 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:58:40] "GET /static/chart.css HTTP/1.1" 200 -
+Tue, 23 Aug 2016 17:58:40 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 17:58:40] "GET /favicon.ico HTTP/1.1" 401 -
+Tue, 23 Aug 2016 18:03:11 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\resources\\glance\\images.py', reloading
+Tue, 23 Aug 2016 18:03:11 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:03:12 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 18:03:12 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 18:03:12 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 18:03:28 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\resources\\glance\\images.py', reloading
+Tue, 23 Aug 2016 18:03:28 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:03:29 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 18:03:29 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 18:03:29 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 18:03:58 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:03:58] "GET /fcloud_api/v1/images HTTP/1.1" 401 -
+Tue, 23 Aug 2016 18:03:58 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:03:58] "GET /favicon.ico HTTP/1.1" 401 -
+Tue, 23 Aug 2016 18:04:28 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\__init__.py', reloading
+Tue, 23 Aug 2016 18:04:28 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:04:28 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 18:04:28 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 18:04:29 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 18:04:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:04:32] "GET /fcloud_api/v1/images HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:04:32 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:04:32] "GET /favicon.ico HTTP/1.1" 401 -
+Tue, 23 Aug 2016 18:05:47 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:05:47] "GET /fcloud_api/v1/console HTTP/1.1" 404 -
+Tue, 23 Aug 2016 18:05:47 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:05:47] "GET /favicon.ico HTTP/1.1" 401 -
+Tue, 23 Aug 2016 18:05:55 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:05:55] "GET /favicon.ico HTTP/1.1" 401 -
+Tue, 23 Aug 2016 18:07:26 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\resources\\glance\\images.py', reloading
+Tue, 23 Aug 2016 18:07:26 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:07:27 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 18:07:27 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 18:07:27 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 18:08:30 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\fcloud_api\\__init__.py', reloading
+Tue, 23 Aug 2016 18:08:30 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:08:31 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 18:08:31 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 18:08:31 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 18:08:46 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:08:46] "GET /fcloud_api/v1/console HTTP/1.1" 404 -
+Tue, 23 Aug 2016 18:17:47 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:17:47] "GET /fcloud_api/v1/images_build HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:25:12 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:25:12 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 18:25:12 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 18:25:13 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 18:25:20 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:25:20] "GET /fcloud_api/v1/images_build HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:35:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:35:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 18:35:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 18:35:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:36:13] "POST /fcloud_api/v1/tokens HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/a3524287eefd47c4a12bffe1a9be3de1 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:36:13] "GET /fcloud_api/v1/tenants HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/a3524287eefd47c4a12bffe1a9be3de1 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 18:36:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 18:36:14 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:36:14] "GET /fcloud_api/v1/apps HTTP/1.1" 500 -
+Tue, 23 Aug 2016 18:36:29 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 18:36:29 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 18:36:29 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 18:36:30 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:36:30] "GET /fcloud_api/v1/apps HTTP/1.1" 500 -
+Tue, 23 Aug 2016 18:36:49 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:36:49] "GET /fcloud_api/v1/images_build HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:37:11 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:37:12 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 18:37:12 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 18:37:12 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 18:37:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 18:37:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 18:37:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 18:37:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 18:37:20 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:37:20] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:37:25 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 18:37:25 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/a3524287eefd47c4a12bffe1a9be3de1 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 18:37:25 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 18:37:26 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 18:37:26 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:37:26] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:37:33 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:37:33] "GET /fcloud_api/v1/images_build HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:37:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:38:00 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 18:38:00 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 18:38:00 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 18:38:03 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 18:38:03 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 18:38:03 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 18:38:03 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 18:38:03 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:38:03] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:42:55 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 18:42:55 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 18:42:55 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 18:42:55 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 18:42:55 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:42:55] "GET /fcloud_api/v1/apps HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:42:59 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:42:59] "GET /fcloud_api/v1/images_build HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:43:41 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:43:42 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] WARNING  * Debugger is active!
+Tue, 23 Aug 2016 18:43:42 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Debugger pin code: 165-409-981
+Tue, 23 Aug 2016 18:43:42 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Running on http://0.0.0.0:8181/ (Press CTRL+C to quit)
+Tue, 23 Aug 2016 18:43:46 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO 127.0.0.1 - - [23/Aug/2016 18:43:46] "GET /fcloud_api/v1/images_build HTTP/1.1" 200 -
+Tue, 23 Aug 2016 18:45:08 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Detected change in 'F:\\PY_PROJECT\\fcloud_api\\runserver.py', reloading
+Tue, 23 Aug 2016 18:45:08 C:\Python27\lib\site-packages\werkzeug\_internal.py[line:87] INFO  * Restarting with stat
+Tue, 23 Aug 2016 18:47:54 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 18:47:54 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 18:47:54 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 18:47:54 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 19:00:57 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 19:00:57 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 404 115
+Tue, 23 Aug 2016 19:01:10 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 19:01:10 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/713d36d15757444ab909171f922afce3 HTTP/1.1" 404 115
+Tue, 23 Aug 2016 19:01:21 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 19:01:21 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Tue, 23 Aug 2016 19:01:21 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 19:01:21 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/7cc9e40ce06c4a9d8c842fe436cb94b5 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 19:01:21 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 19:01:21 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Tue, 23 Aug 2016 19:01:21 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 19:01:21 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/7cc9e40ce06c4a9d8c842fe436cb94b5 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 19:01:21 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 19:01:21 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Tue, 23 Aug 2016 19:01:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Tue, 23 Aug 2016 19:01:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/7cc9e40ce06c4a9d8c842fe436cb94b5 HTTP/1.1" 200 370
+Tue, 23 Aug 2016 19:01:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Tue, 23 Aug 2016 19:01:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None

@@ -21,6 +21,7 @@ import logging
 KEYSTONE = {
         "uri": "http://10.24.247.1:5000",
         "admin_proj": "62e5e4e323b04598b0822ad422969b86",
+        "admin_token": "froad",
         "ks_user": "admin",
         "ks_pass": "froad"
 }
@@ -49,3 +50,6 @@ DEFAULT_TIMEOUT_SECONDS = 10
 
 # Marathon base url
 MARATHON_URL = "http://10.43.1.230:8080"
+
+# image register
+IMAGE_STORE = 'http://10.24.247.22:5000'

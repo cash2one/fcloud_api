@@ -15,7 +15,7 @@ logger = logging.getLogger(__name__)
 
 @zt_api.route('/pm_monitor/<system_snid>/', methods=['GET'])
 def pm_monitor(system_snid):
-    return render_template('pm_metric.html', system_snid=system_snid)
+    return render_template('index.html', system_snid=system_snid)
 
 
 @zt_api.route('/pm_monitor/statics/<metric>/<system_snid>/<duration>/', methods=['POST'])

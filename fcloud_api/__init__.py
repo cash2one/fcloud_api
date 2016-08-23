@@ -13,18 +13,19 @@ __author__ = 'liujiahua'
 #    WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the
 #    License for the specific language governing permissions and limitations
 #    under the License.
-from flask import Flask, Blueprint
-from flask_restful import Api
-from flask_sqlalchemy import SQLAlchemy
-from flask import abort
-from flask import request
-from flask import jsonify
-from config import KEYSTONE, DATABASE, DATABASE_CMDB, DATABASE_CLOUD, logging
-from fcloud_api.common.client import HttpClient
-from flask import g
-import urlparse
 import json
 import re
+
+from flask import Flask, Blueprint
+from flask import abort
+from flask import g
+from flask import jsonify
+from flask import request
+from flask_restful import Api
+from flask_sqlalchemy import SQLAlchemy
+
+from config import KEYSTONE, DATABASE, DATABASE_CMDB, DATABASE_CLOUD, logging
+from fcloud_api.common.client import HttpClient
 
 app = Flask(__name__)
 api_bp = Blueprint('api', __name__)
@@ -48,14 +49,14 @@ def page_not_found(error):
 @app.before_request
 def before_request():
     token = request.headers.get("X-Auth-Token")
-    g.admin_token = get_admin_token()  # 可放在缓存中， 设置与 keystone 同样的超时时间
+    g.admin_token = KEYSTONE['admin_token']  # v3 keystone需要每次生成，这是V2 直接用 admin token
     g.uri = KEYSTONE['uri']
     g.admin_proj = KEYSTONE['admin_proj']
     # 静态文件和监控数据不用验证，直接通过
-    if re.match('/fcloud_api/pm_monitor', request.path):
+    if re.match('/fcloud_api/v1/images', request.path):
         g.token = g.admin_token
-    elif re.match('/fcloud_api/vm_monitor', request.path):
-        g.token = g.admin_token
+    elif re.match('/fcloud_api/v1/console', request.path):
+        pass
     elif re.match('/static', request.path):
         pass
     elif re.match('/fcloud_api/v1/tokens', request.path):
@@ -74,12 +75,11 @@ def validatedToken(token):
     try:
         if token == g.admin_token:
             return True
-        headers = {"X-Auth-Token": "{0}".format(g.admin_token),
-                   "X-Subject-Token": token}
+        headers = {"X-Auth-Token": "%s" % g.admin_token}
         c = HttpClient(base_url=KEYSTONE["uri"])
-        c, s, h = c._result(c._get(c._url('/v3/auth/tokens'), headers=headers), True)
-        if c.has_key('token'):
-            g.username = c['token']['user']['name']
+        c, s, h = c._result(c._get(c._url('/v2.0/tokens/%s' % token), headers=headers), True)
+        if c.has_key('access'):
+            g.username = c['access']['user']['username']
             return True
         else:
             return False
@@ -87,6 +87,7 @@ def validatedToken(token):
         return False
 
 
+# v2 不需要这个方法了
 def get_admin_token():
     try:
         c = HttpClient(base_url=KEYSTONE["uri"])
@@ -157,7 +158,9 @@ from resources.queue import Queue
 from resources.queue import DeleteQueue
 from resources.queue import Ping
 from resources.queue import Metrics
-from resources.identity import Identity
+from fcloud_api.resources.keystone.identity import Identity
+from fcloud_api.resources.keystone.tenants import Tenants
+from fcloud_api.resources.glance.images import Images, ImagesBuild
 
 api.add_resource(Apps, '/apps')
 api.add_resource(App, '/apps/<string:app_id>')
@@ -179,5 +182,8 @@ api.add_resource(DeleteQueue, '/queue/<string:app_id>/delay')
 api.add_resource(Ping, '/ping')
 api.add_resource(Metrics, '/Metrics')
 api.add_resource(Identity, '/tokens')
+api.add_resource(Tenants, '/tenants')
+api.add_resource(Images, '/images')
+api.add_resource(ImagesBuild, '/images_build')
 
 app.register_blueprint(api_bp, url_prefix='/fcloud_api/v1')
