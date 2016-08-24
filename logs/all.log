@@ -2434,3 +2434,281 @@ Tue, 23 Aug 2016 19:01:58 C:\Python27\lib\site-packages\requests\packages\urllib
 Tue, 23 Aug 2016 19:01:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/7cc9e40ce06c4a9d8c842fe436cb94b5 HTTP/1.1" 200 370
 Tue, 23 Aug 2016 19:01:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
 Tue, 23 Aug 2016 19:01:58 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Wed, 24 Aug 2016 10:49:18 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 10:49:18 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Wed, 24 Aug 2016 10:49:18 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 10:49:18 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/134c2fd7e5694dbd84a47ed7b11e191e HTTP/1.1" 200 370
+Wed, 24 Aug 2016 10:49:18 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 10:49:18 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Wed, 24 Aug 2016 10:49:18 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 10:49:18 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/134c2fd7e5694dbd84a47ed7b11e191e HTTP/1.1" 200 370
+Wed, 24 Aug 2016 10:49:18 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Wed, 24 Aug 2016 10:49:18 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Wed, 24 Aug 2016 11:07:32 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 11:07:32 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/134c2fd7e5694dbd84a47ed7b11e191e HTTP/1.1" 200 370
+Wed, 24 Aug 2016 11:07:32 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Wed, 24 Aug 2016 11:07:32 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Wed, 24 Aug 2016 15:45:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:45:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:45:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:45:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:45:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:45:56 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:46:04 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 15:46:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Wed, 24 Aug 2016 15:46:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 15:46:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/40069ad508eb4c9e86de40c6f7c2577e HTTP/1.1" 200 370
+Wed, 24 Aug 2016 15:46:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 15:46:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Wed, 24 Aug 2016 15:46:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 15:46:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/40069ad508eb4c9e86de40c6f7c2577e HTTP/1.1" 200 370
+Wed, 24 Aug 2016 15:46:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Wed, 24 Aug 2016 15:46:05 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Wed, 24 Aug 2016 15:46:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:46:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:46:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:46:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:46:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:46:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:46:39 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:46:39 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:46:39 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:46:40 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:46:40 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:46:40 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:47:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:47:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:47:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:47:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:47:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:47:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:47:12 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:47:12 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:47:12 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:47:12 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:47:12 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:47:12 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:50:39 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:50:39 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:50:39 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:50:39 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:50:39 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:50:39 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:51:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:51:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:51:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:51:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:51:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:51:01 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:55:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:55:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:55:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:55:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:55:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:55:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:55:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:57:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:57:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:57:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:57:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:57:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:57:14 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:57:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 15:57:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 15:57:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 15:57:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 15:57:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 15:57:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:00:36 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:00:36 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:00:36 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:00:36 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:00:36 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:00:36 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:00:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:00:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:00:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:00:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:00:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:00:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:01:49 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:01:49 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:01:49 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:01:49 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:01:49 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:01:49 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:03:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:03:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:03:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:03:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:03:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:03:07 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:03:26 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:03:26 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:03:26 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:03:26 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:03:26 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:03:26 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:03:31 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:03:31 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:03:31 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:03:31 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:03:31 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:03:31 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:03:59 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:03:59 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:03:59 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:03:59 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:03:59 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:03:59 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:09:32 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:09:32 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:09:32 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:09:32 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:09:32 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:09:32 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:09:34 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:09:34 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:09:34 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:09:34 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:09:34 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:09:34 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:10:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:10:17 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:10:17 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:10:17 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:10:17 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:10:17 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:10:19 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:10:19 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:10:19 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:10:19 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:10:19 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:10:19 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:11:50 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 16:11:50 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "POST /v2.0/tokens HTTP/1.1" 200 370
+Wed, 24 Aug 2016 16:11:50 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 16:11:50 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/3420752cfb5b46178eb7112803b61933 HTTP/1.1" 200 370
+Wed, 24 Aug 2016 16:11:50 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 16:11:50 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tenants HTTP/1.1" 200 247
+Wed, 24 Aug 2016 16:11:50 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.1
+Wed, 24 Aug 2016 16:11:50 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2.0/tokens/3420752cfb5b46178eb7112803b61933 HTTP/1.1" 200 370
+Wed, 24 Aug 2016 16:11:50 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.43.1.230
+Wed, 24 Aug 2016 16:11:50 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v2/apps HTTP/1.1" 200 None
+Wed, 24 Aug 2016 16:11:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:11:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:11:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:11:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:11:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:11:52 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:11:57 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:11:57 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:11:57 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:11:57 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:11:57 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:11:57 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:248] INFO Resetting dropped connection: 10.24.247.22
+Wed, 24 Aug 2016 16:11:57 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:13:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:13:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:13:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:13:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:13:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:13:20 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:13:24 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:13:24 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:13:24 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:13:24 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:13:24 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:13:24 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:13:32 C:\Python27\lib\site-packages\flask\app.py[line:1587] ERROR Exception on /fcloud_api/v1/images_build [GET]
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Python27\lib\site-packages\flask_restful\__init__.py", line 477, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\flask\views.py", line 84, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\flask_restful\__init__.py", line 587, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "F:\PY_PROJECT\fcloud_api\fcloud_api\resources\glance\images.py", line 35, in get
+    with open('flask_api/resources/glance/DockerFile/' + docker_filename, 'a+') as f:
+IOError: [Errno 2] No such file or directory: 'flask_api/resources/glance/DockerFile/DockerFile-2016-08-24-16-13-32'
+Wed, 24 Aug 2016 16:14:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:14:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:14:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:14:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:14:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:14:13 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:14:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:14:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:14:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:14:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:14:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:14:16 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:14:22 C:\Python27\lib\site-packages\flask\app.py[line:1587] ERROR Exception on /fcloud_api/v1/images_build [GET]
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Python27\lib\site-packages\flask_restful\__init__.py", line 477, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\flask\views.py", line 84, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\flask_restful\__init__.py", line 587, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "F:\PY_PROJECT\fcloud_api\fcloud_api\resources\glance\images.py", line 35, in get
+    with open('fcloud_api/resources/glance/DockerFile/' + docker_filename, 'a+') as f:
+IOError: [Errno 2] No such file or directory: 'fcloud_api/resources/glance/DockerFile/DockerFile-2016-08-24-16-14-22'
+Wed, 24 Aug 2016 16:15:28 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:15:28 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:15:28 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:15:28 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:15:28 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:15:28 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:15:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:15:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:15:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:15:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:15:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:15:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:15:33 C:\Python27\lib\site-packages\flask\app.py[line:1587] ERROR Exception on /fcloud_api/v1/images_build [GET]
+Traceback (most recent call last):
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1639, in full_dispatch_request
+    rv = self.dispatch_request()
+  File "C:\Python27\lib\site-packages\flask\app.py", line 1625, in dispatch_request
+    return self.view_functions[rule.endpoint](**req.view_args)
+  File "C:\Python27\lib\site-packages\flask_restful\__init__.py", line 477, in wrapper
+    resp = resource(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\flask\views.py", line 84, in view
+    return self.dispatch_request(*args, **kwargs)
+  File "C:\Python27\lib\site-packages\flask_restful\__init__.py", line 587, in dispatch_request
+    resp = meth(*args, **kwargs)
+  File "F:\PY_PROJECT\fcloud_api\fcloud_api\resources\glance\images.py", line 44, in get
+    p = g.run(["dir"])
+  File "C:\Python27\lib\site-packages\shelljob\proc.py", line 53, in run
+    CommandException( e, "Group.run '{}' failed".format( cmd ) ).do_raise()
+  File "C:\Python27\lib\site-packages\shelljob\proc.py", line 51, in run
+    return self._run_impl( cmd, shell )
+  File "C:\Python27\lib\site-packages\shelljob\proc.py", line 63, in _run_impl
+    stdin = subprocess.PIPE, # needed to detach from calling terminal (other wacky things can happen)
+  File "C:\Python27\lib\site-packages\gevent\subprocess.py", line 534, in __init__
+    reraise(*exc_info)
+  File "C:\Python27\lib\site-packages\gevent\subprocess.py", line 503, in __init__
+    restore_signals, start_new_session)
+  File "C:\Python27\lib\site-packages\gevent\subprocess.py", line 847, in _execute_child
+    startupinfo)
+CommandException: ("Group.run '['dir']' failed", WindowsError(2, ''))
+Wed, 24 Aug 2016 16:17:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:213] INFO Starting new HTTP connection (1): 10.24.247.22
+Wed, 24 Aug 2016 16:17:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/search HTTP/1.1" 200 232
+Wed, 24 Aug 2016 16:17:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos/tags HTTP/1.1" 200 152
+Wed, 24 Aug 2016 16:17:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/test/tags HTTP/1.1" 200 2
+Wed, 24 Aug 2016 16:17:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/centos6/tags HTTP/1.1" 200 233
+Wed, 24 Aug 2016 16:17:30 C:\Python27\lib\site-packages\requests\packages\urllib3\connectionpool.py[line:395] DEBUG "GET /v1/repositories/migrate/tags HTTP/1.1" 200 2

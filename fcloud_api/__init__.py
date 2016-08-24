@@ -26,8 +26,10 @@ from flask_sqlalchemy import SQLAlchemy
 
 from config import KEYSTONE, DATABASE, DATABASE_CMDB, DATABASE_CLOUD, logging
 from fcloud_api.common.client import HttpClient
+from flask_cors import CORS
 
 app = Flask(__name__)
+CORS(app)
 api_bp = Blueprint('api', __name__)
 api = Api(api_bp)
 
