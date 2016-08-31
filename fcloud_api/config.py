@@ -27,9 +27,7 @@ KEYSTONE = {
 }
 
 
-DATABASE = 'mysql://root:@localhost/netflow'
-DATABASE_CMDB = 'mysql://root:@localhost/cmdb'
-DATABASE_CLOUD = 'mysql://root:@localhost/cloud'
+DATABASE = 'mysql://root:@localhost/fcloud_api'
 
 
 logging.basicConfig(level=logging.DEBUG,
@@ -49,7 +47,7 @@ C2_CHANGE_VIR_PWD_SCRIPT="python /opt/minion/extmods/modules/chg_pwd"
 DEFAULT_TIMEOUT_SECONDS = 10
 
 # Marathon base url
-MARATHON_URL = "http://10.43.1.230:8080"
+MARATHON_URL = "http://10.43.1.237:8080"
 
 # image register
 IMAGE_STORE = 'http://10.24.247.22:5000'

@@ -77,6 +77,19 @@ class HttpClient(requests.Session):
         kwargs['headers']['Content-Type'] = 'application/json'
         return self._post(url, data=json.dumps(data2), **kwargs)
 
+    def _put_json(self, url, data, **kwargs):
+        # Go <1.1 can't unserialize null to a string
+        # so we do this disgusting thing here.
+        data2 = {}
+        if data is not None:
+            for k, v in six.iteritems(data):
+                if v is not None:
+                    data2[k] = v
+
+        if 'headers' not in kwargs:
+            kwargs['headers'] = {}
+        kwargs['headers']['Content-Type'] = 'application/json'
+        return self._put(url, data=json.dumps(data2), **kwargs)
 
 if __name__ == "__main__":
     a = HttpClient()

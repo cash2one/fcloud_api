@@ -1,19 +1,16 @@
 # coding:utf8
-from fcloud_api.resources import c
-from marathon.models import MarathonApp
 from flask_restful import Resource
-from flask_restful import reqparse
-from flask_restful import fields, marshal_with
-from fcloud_api.common.client import HttpClient
-from flask import g
-from fcloud_api.config import KEYSTONE
+from fcloud_api.models import History
+from flask import request
+from fcloud_api.common.utils import AlchemyEncoder
+import json
 from flask_restful_swagger import swagger
 
 
-class Tenants(Resource):
+class HistoryLog(Resource):
 
     @swagger.operation(
-      notes='获取项目列表',
+      notes='获取历史操作记录',
       nickname='get',
       # Parameters can be automatically extracted from URLs (e.g. <string:id>)
       # but you could also override them here, or add other parameters.
@@ -28,7 +25,11 @@ class Tenants(Resource):
           }
       ])
     def get(self):
-        """ 获取项目列表 """
-        c = HttpClient(base_url=KEYSTONE["uri"])
-        headers = {"X-Auth-Token": g.token}
-        return c._result(c._get(c._url('/v2.0/tenants'), headers=headers), True)
+        """ 获取操作日志 """
+        filters = request.args
+        if filters.has_key('limit'):
+            limit = int(filters['limit'])
+            result = History.query.order_by(-History.date).limit(limit).all()
+        else:
+            result = History.query.order_by(-History.date).all()
+        return {"history": json.loads(json.dumps(result, cls=AlchemyEncoder))}

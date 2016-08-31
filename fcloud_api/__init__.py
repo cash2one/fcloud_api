@@ -23,18 +23,23 @@ from flask import jsonify
 from flask import request
 from flask_restful import Api
 from flask_sqlalchemy import SQLAlchemy
-
-from config import KEYSTONE, DATABASE, DATABASE_CMDB, DATABASE_CLOUD, logging
+from flask_restful_swagger import swagger
+from config import KEYSTONE, DATABASE, logging
 from fcloud_api.common.client import HttpClient
 from flask_cors import CORS
 
 app = Flask(__name__)
 CORS(app)
 api_bp = Blueprint('api', __name__)
-api = Api(api_bp)
+#api = Api(api_bp)
+api = swagger.docs(Api(api_bp), apiVersion='0.1',
+                   basePath='http://127.0.0.1:8181',
+                   resourcePath='/',
+                   produces=["application/json", "text/html"],
+                   api_spec_url='/api/spec',
+                   description='fcloud_api 文档')
 
-
-#app.config['SQLALCHEMY_DATABASE_URI'] = DATABASE
+app.config['SQLALCHEMY_DATABASE_URI'] = DATABASE
 #app.config['SQLALCHEMY_BINDS'] = {
 #    'cmdb': DATABASE_CMDB,
 #    'cloud': DATABASE_CLOUD
@@ -57,7 +62,7 @@ def before_request():
     # 静态文件和监控数据不用验证，直接通过
     if re.match('/fcloud_api/v1/images', request.path):
         g.token = g.admin_token
-    elif re.match('/fcloud_api/v1/console', request.path):
+    elif re.match('/fcloud_api/v1/api/spec', request.path):
         pass
     elif re.match('/static', request.path):
         pass
@@ -141,6 +146,7 @@ def get_admin_token():
 #from unify.api.identity import identity_bp
 
 #app.register_blueprint(identity_bp, url_prefix='/identity')
+from fcloud_api.resources.keystone.identity import Identity
 from resources.apps import Apps
 from resources.apps import App
 from resources.apps import AppRestart
@@ -154,16 +160,19 @@ from resources.groups import Groups
 from resources.groups import GroupsVersions
 from resources.groups import Group
 from resources.groups import GroupVersion
+from resources.tasks import Task
 from resources.tasks import Tasks
 from resources.tasks import TasksDelete
 from resources.queue import Queue
 from resources.queue import DeleteQueue
 from resources.queue import Ping
 from resources.queue import Metrics
-from fcloud_api.resources.keystone.identity import Identity
 from fcloud_api.resources.keystone.tenants import Tenants
-from fcloud_api.resources.glance.images import Images, ImagesBuild
+from fcloud_api.resources.glance.images import Images, Image, ImagesBuild
+from fcloud_api.resources.ceilometer.history import HistoryLog
+from fcloud_api.resources.glance.flavors import Flavors
 
+api.add_resource(Identity, '/tokens')
 api.add_resource(Apps, '/apps')
 api.add_resource(App, '/apps/<string:app_id>')
 api.add_resource(AppRestart, '/apps/<string:app_id>/restart')
@@ -177,15 +186,18 @@ api.add_resource(Groups, '/groups')
 api.add_resource(GroupsVersions, '/groups/versions')
 api.add_resource(Group, '/groups/<string:group_id>')
 api.add_resource(GroupVersion, '/groups/<string:group_id>/versions')
+api.add_resource(Task, '/tasks/<string:slave_ip>/<string:task_id>')
 api.add_resource(Tasks, '/tasks')
 api.add_resource(TasksDelete, '/tasks/delete')
 api.add_resource(Queue, '/queue')
 api.add_resource(DeleteQueue, '/queue/<string:app_id>/delay')
 api.add_resource(Ping, '/ping')
 api.add_resource(Metrics, '/Metrics')
-api.add_resource(Identity, '/tokens')
 api.add_resource(Tenants, '/tenants')
 api.add_resource(Images, '/images')
+api.add_resource(Image, '/image/<string:store>/<string:tag>')
 api.add_resource(ImagesBuild, '/images_build')
+api.add_resource(HistoryLog, '/history')
+api.add_resource(Flavors, '/flavors')
 
 app.register_blueprint(api_bp, url_prefix='/fcloud_api/v1')
